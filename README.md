@@ -6,6 +6,11 @@ An easy way of planning your Oneworld RTW trip
 ![Main Screen](assets/main.png)
 ![Search Screen](assets/search.png)
 
+Updates
+-------
+
+2026-Oct-6 I've reverted v0.0.1-alpha due to a packaging anomaly producing a strange error.  I'll upload a new version shortly.
+
 Downloading from Github
 -----------------------
 
