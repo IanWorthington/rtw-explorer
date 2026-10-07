@@ -10,6 +10,7 @@ Updates
 -------
 
 2026-Oct-6 I've reverted v0.0.1-alpha due to a packaging anomaly producing a strange error.  I'll upload a new version shortly.
+2026-Oct-7 Fixed and issue that allowed local files to interfere with the running of the application in rare circumstances.
 
 Downloading from Github
 -----------------------
